@@ -64,5 +64,17 @@ p{
     
 }
 #bounce:hover{
-    animation:  bounce .6s ease-in-out  ;
+    animation:  bounce .6s ease-in-out  
+    ;
+}
+
+
+
+
+
+
+#events{
+    height: 500px;
+    width: 50%;
+    background: #000;
 }
